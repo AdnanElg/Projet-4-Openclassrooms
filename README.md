@@ -13,4 +13,4 @@ Optimiser le référencement d'un site web
 Optimiser la taille et la vitesse d'un site web
 
 Lien vers la page du projet optimisé : https://adnanelg.github.io/Projet-n-4-La-Chouette-Agence-SEO-AVANT/
-lien vers la page du projet originale : https://adnanelg.github.io/Projet-n-4-La-Chouette-Agence-SEO-APRES/
+Lien vers la page du projet originale : https://adnanelg.github.io/Projet-n-4-La-Chouette-Agence-SEO-APRES/
